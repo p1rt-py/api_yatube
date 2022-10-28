@@ -1,4 +1,4 @@
-API для социальной сети YaTube(https://github.com/p1rt-py/hw05_final).
+API для социальной сети YaTube - https://github.com/p1rt-py/hw05_final.
 
 Yatube - Это социальная сеть для блогеров. В которой реализована
 авторизация на Django, работа с Базами Данных, создание индивидуальных страниц
